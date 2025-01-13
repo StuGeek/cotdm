@@ -1,0 +1,6 @@
+{
+    "modelset3": {
+        "bert-large-uncased": 2,
+        "gpt2-medium": 2
+    }
+}

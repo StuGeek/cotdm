@@ -1,0 +1,9 @@
+torch
+torchvision
+torchaudio
+transformers
+pynvml
+gputil
+aiohttp
+matplotlib
+scipy
